@@ -13,7 +13,7 @@ define('APP_URL', $protocol . $host . $baseDir);
 $_app_stage = 'Live'; # Do not change this
 
 $db_host    = "mysql"; # Database Host
-$db_port    = "3306";   # Database Port. Keep it blank if you are un sure.
+$db_port    = "";   # Database Port. Keep it blank if you are un sure.
 $db_user    = "nuxbill"; # Database Username
 $db_pass    = "123456789"; # Database Password
 $db_name    = "nuxbill"; # Database Name
