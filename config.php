@@ -14,8 +14,8 @@ $_app_stage = 'Live'; # Do not change this
 
 $db_host    = "mysql"; # Database Host
 $db_port    = "";   # Database Port. Keep it blank if you are un sure.
-$db_user    = "nuxbill"; # Database Username
-$db_pass    = "123456789"; # Database Password
+$db_user    = "root"; # Database Username
+$db_pass    = "yc6ijYbGE9ZX5GwdN9mVVxfhdN0qKvOQpwnuU5HmbAzicpHpnIdDQ3O2LtFUiSfp"; # Database Password
 $db_name    = "nuxbill"; # Database Name
 
 
