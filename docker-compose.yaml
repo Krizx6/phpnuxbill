@@ -24,8 +24,8 @@ services:
       - "3306:3306"
 
 # skip data persistance (if dev testing)
-#     volumes:
-#       - mysql_data:/var/lib/mysql
+     volumes:
+       - mysql_data:/var/lib/mysql
 
-# volumes:
-#   mysql_data:
+ volumes:
+   mysql_data:
